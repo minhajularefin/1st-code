@@ -10,7 +10,7 @@ The time difference between arrival of one customer and then the next customer i
 ## Arrival Time:
 The time when customer arrives, arrived, or will arrive. At that point the customer started working.
 
-## Main Section
+## Main Section:
 Now solving this problem
 We know that. first customer has to arrive at 0 second. So first customer's inter arrival time and arrival time are 0.
 Firstly, the inter arrival time for 19 customers has to be taken randomly. After taking randomly, it will be printed.
